@@ -1,5 +1,5 @@
-# dimer_self_assembly_code
-Companion Jupyter Notebook for "Self-Assembly of  a Dimer System" https://www.ncbi.nlm.nih.gov/pubmed/31108689
+## Companinon Repository for "Self-Assembly of  a Dimer System"
+Paper Link https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.042133 / https://arxiv.org/pdf/1909.00455.pdf 
 
 ## Notebook viewing links: 
 **Degeneracy Factor Calculation:** https://nbviewer.jupyter.org/github/mowillia/dimer_self_assembly_code/blob/master/degen_factors_self_assembly.ipynb
