@@ -28,9 +28,9 @@ The notebooks that reproduce the figures and tables in the paper are as follows
 - [`additional_param_space.ipynb`](https://github.com/mowillia/DimerSelfAssembly/blob/master/additional_param_space.ipynb): Reproduces Figure S1 in Supplementary Materials; Runs in < 5 secs
 
 ## Data files
-- [`protein_DNA_affinity.csv`]: Binding energies between proteins and DNA. 
+- `protein_DNA_affinity.csv`: Binding energies between proteins and DNA. 
   - From Table 1 in: Jen‐Jacobson, Linda. "Protein—DNA recognition complexes: Conservation of structure and binding energy in the transition state." *Biopolymers: Original Research on Biomolecules* 44.2 (1997): 153-180. 
-- [`protein_protein_affinity.csv`]: Binding energies between proteins
+- `protein_protein_affinity.csv`: Binding energies between proteins
   - From [Affinity](https://bmm.crick.ac.uk/~bmmadmin/Affinity/) linked to in: Kastritis, Panagiotis L., et al. "A structure‐based benchmark 
 for protein–protein binding affinity." *Protein Science* 20.3 (2011): 482-491
 
