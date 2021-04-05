@@ -22,7 +22,7 @@ By answering the above question, we can formulate a statistical physics model th
 The notebooks that reproduce the figures and tables in the paper are as follows
 
 - [`degen_factors_checks.ipynb`](https://nbviewer.jupyter.org/github/mowillia/DimerSelfAssembly/blob/master/degen_factors_checks.ipynb): Checks analytical degeneracy factor calculations (in particular answers the dancing couples question); Runs in < 5 secs
-- [`num_soln_sim.ipynb`](https://nbviewer.jupyter.org/github/mowillia/DimerSelfAssembly/blob/master/num_soln_sim.ipynb): Reproduces Figure 4; Runs in < 30 minutes
+- [`num_soln_sim.ipynb`](https://nbviewer.jupyter.org/github/mowillia/DimerSelfAssembly/blob/master/num_soln_sim.ipynb): Reproduces Figure 4; Runs in ~ 30 minutes
 - [`param_space.ipynb`](https://nbviewer.jupyter.org/github/mowillia/DimerSelfAssembly/blob/master/param_space.ipynb): Reproduces Figure 5; Runs in < 5 secs
 - [`biophys_calc.ipynb`](https://nbviewer.jupyter.org/github/mowillia/DimerSelfAssembly/blob/master/biophys_calc.ipynb): Reproduces computations from Section VI of paper; Runs in < 5 secs
 - [`additional_param_space.ipynb`](https://nbviewer.jupyter.org/github/mowillia/DimerSelfAssembly/blob/master/additional_param_space.ipynb): Reproduces Figure S1 in Supplementary Materials; Runs in < 5 secs
