@@ -39,8 +39,6 @@ for protein–protein binding affinity." *Protein Science* 20.3 (2011): 482-491
 [1] Williams, Mobolaji. "Self-assembly of a dimer system." *Physical Review E* 99.4 (2019): 042133.[[author's copy]](https://www.researchgate.net/publication/332567914_Self-Assembly_of_a_Dimer_System)
 
 ---
-
-If you found this repository useful in your research, please consider citing
 ```
 @article{williams2019self,
   title={Self-assembly of a dimer system},
