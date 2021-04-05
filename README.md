@@ -16,7 +16,7 @@ Paper Link https://arxiv.org/pdf/1909.00455.pdf
 In the self-assembly process which drives the formation of cellular membranes, micelles, and capsids, a collection of separated subunits spontaneously binds together to form functional and more ordered structures. But we can also study self-assembly in a simpler scenario: the formation of dimers from a system of monomers.
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/8810308/113524506-1d4d7c00-957d-11eb-96ec-ecc29e694c52.png" width = "70%">
+<img src = "https://user-images.githubusercontent.com/8810308/113524506-1d4d7c00-957d-11eb-96ec-ecc29e694c52.png" width = "80%">
   </p>
 
 The above figure depicts self-assembling biomolecular dimer systems. In (a) distinct single-stranded DNA (ssDNA) strands exist in a system with their complementary strands and with other double-stranded DNA (dsDNA). In (b) transcription factors (TFs) exist in a system with their binding sites on DNA and with already bound TF-DNA dimers. Since the binding sites are embedded in the much longer strand of an entire DNA molecule, the effective DNA molecules to which the TFs bind are much less motile than the TFs. In (c) distinct protein monomers exist in a system with the heterodimers formed from them. In all systems, we consider “fully correct assembly" or “fully correct dimerization" as the state where all monomers are bound to their correct monomer or binding site.
