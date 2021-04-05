@@ -1,16 +1,3 @@
-## Companinon Repository for "Self-Assembly of  a Dimer System"
-Paper Link https://arxiv.org/pdf/1909.00455.pdf 
-
-## Notebook viewing links: 
-**Degeneracy Factor Calculation:** https://nbviewer.jupyter.org/github/mowillia/dimer_self_assembly_code/blob/master/degen_factors_self_assembly.ipynb
-
-**Biophysics Calculations:** https://nbviewer.jupyter.org/github/mowillia/dimer_self_assembly_code/blob/master/sadimer_biophys_calc.ipynb
-
-**Numerical Solutions to Equilibrium Equations:** https://nbviewer.jupyter.org/github/mowillia/dimer_self_assembly_code/blob/master/sadimer_num_soln_sim.ipynb
-
-**Parameter Space Exploration:** https://nbviewer.jupyter.org/github/mowillia/dimer_self_assembly_code/blob/master/sadimer_param_space.ipynb
-
-
 # Self-Assembly of a Dimer System
 
 In the self-assembly process which drives the formation of cellular membranes, micelles, and capsids, a collection of separated subunits spontaneously binds together to form functional and more ordered structures. But we can also study self-assembly in a simpler scenario: the formation of dimers from a system of monomers.
@@ -34,17 +21,24 @@ By answering the above question, we can formulate a statistical physics model th
 
 The notebooks that reproduce the figures and tables in the paper are as follows
 
-- [`temp_vs_signorm.ipynb`](https://github.com/mowillia/largeNKP/blob/main/potential_landscape.ipynb): Reproduces Figure 3; Runs in < 1 sec
-- [`sadimer_param_space.ipynb`](https://github.com/mowillia/largeNKP/blob/main/total_value_vs_temperature.ipynb): Reproduces Figure 4; Runs in < 5 minutes
-- [`sadimer_num_soln_sim.ipynb`](https://github.com/mowillia/largeNKP/blob/main/algorithm_comparisons.ipynb): Reproduces Figure 5; Runs in < 1 sec
+- [`degen_factors_checks.ipynb`](https://github.com/mowillia/DimerSelfAssembly/blob/main/degen_factors_checks.ipynb): Checks analytical degeneracy factor calculations (in particular answers the dancing couples question); Runs in < 5 secs
+- [`num_soln_sim.ipynb`](https://github.com/mowillia/DimerSelfAssembly/blob/master/num_soln_sim.ipynb): Reproduces Figure 4; Runs in < 30 minutes
+- [`param_space.ipynb`](https://github.com/mowillia/DimerSelfAssembly/blob/master/param_space.ipynb): Reproduces Figure 5; Runs in < 5 secs
+- [`biophys_calc.ipynb`](https://github.com/mowillia/DimerSelfAssembly/blob/master/biophys_calc.ipynb): Reproduces computations from Section VI of paper; Runs in < 5 secs
+- [`additional_param_space.ipynb`](https://github.com/mowillia/DimerSelfAssembly/blob/master/additional_param_space.ipynb): Reproduces Figure S1 in Supplementary Materials; Runs in < 5 secs
+
+## Data files
+- [`protein_DNA_affinity.csv`]: Binding energies between proteins and DNA. 
+  - From Table 1 in: Jen‐Jacobson, Linda. "Protein—DNA recognition complexes: Conservation of structure and binding energy in the transition state." *Biopolymers: Original Research on Biomolecules* 44.2 (1997): 153-180. 
+- [`protein_protein_affinity.csv`]: Binding energies between proteins
+  - From [Affinity](https://bmm.crick.ac.uk/~bmmadmin/Affinity/) linked to in: Kastritis, Panagiotis L., et al. "A structure‐based benchmark 
+for protein–protein binding affinity." *Protein Science* 20.3 (2011): 482-491
 
 
 ## References
 [1] Williams, Mobolaji. "Self-assembly of a dimer system." *Physical Review E* 99.4 (2019): 042133.[[author's copy]](https://www.researchgate.net/publication/332567914_Self-Assembly_of_a_Dimer_System)
 
 ---
-
-If you found this repository useful in your research, please consider citing
 ```
 @article{williams2019self,
   title={Self-assembly of a dimer system},
