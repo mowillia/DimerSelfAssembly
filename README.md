@@ -14,7 +14,7 @@ The combinatorial problem at the foundation of understanding the statistical phy
 <img src = "https://user-images.githubusercontent.com/8810308/113524568-90ef8900-957d-11eb-9ecc-87e6344ca9a0.png" width = "70%">
   </p>
   
-By answering the above question, we can formulate a statistical physics model that we can then use to answer questions such as "Under what conditions do the systems defined in the first figure settle into their fully correct configurations?" This question is answered in the [associated paper](https://www.researchgate.net/publication/332567914_Self-Assembly_of_a_Dimer_System). This repository contains the notebooks that reproduce the results therein. 
+By answering the above question, we can formulate a statistical physics model that we can then use to answer questions such as "Under what conditions do the systems defined in the first figure settle into their fully correct configurations?" This question is answered in the [associated paper](https://arxiv.org/pdf/1909.00455.pdf). This repository contains the notebooks that reproduce the results therein. 
 
 
 ## Reproducing figures and tables
@@ -37,7 +37,7 @@ for protein–protein binding affinity." *Protein Science* 20.3 (2011): 482-491
 
 
 ## References
-[1] Williams, Mobolaji. "Self-assembly of a dimer system." *Physical Review E* 99.4 (2019): 042133.[[author's copy]](https://www.researchgate.net/publication/332567914_Self-Assembly_of_a_Dimer_System)
+[1] Williams, Mobolaji. "Self-assembly of a dimer system." *Physical Review E* 99.4 (2019): 042133.
 
 ---
 ```
