@@ -1,6 +1,6 @@
 # Self-Assembly of a Dimer System
 
-In the self-assembly process which drives the formation of cellular membranes, micelles, and capsids, a collection of separated subunits spontaneously binds together to form functional and more ordered structures. But we can also study self-assembly in a simpler scenario: the formation of dimers from a system of monomers.
+In the self-assembly process which drives the formation of cellular membranes, micelles, and capsids, a collection of separated subunits spontaneously binds together to form functional and more ordered structures. Such processes have features that are more easily studied in a much simpler scenario: the ordered formation of dimers from a system of distinguishable monomers.
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/8810308/113524506-1d4d7c00-957d-11eb-96ec-ecc29e694c52.png" width = "80%">
